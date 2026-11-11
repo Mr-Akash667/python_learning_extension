@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.6.5
+_src_path: https://github.com/jupyterlab/extension-template
+advanced: false
+author_email: arnobakash110@gmail.com
+author_name: Arnob Saha Akash
+create_claude_symlink: false
+create_gemini_symlink: false
+has_ai_rules: true
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: jupyterlab-python-learning
+project_short_description: Python learning extension with mistake-based Quiz questions.
+python_name: jupyterlab_python_learning
+repository: ''
+test: true
+
